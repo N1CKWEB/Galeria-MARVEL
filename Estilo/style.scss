@@ -1,0 +1,324 @@
+*{
+   margin: 0;
+   border: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+}
+
+@keyframes color {
+   0%   { background: #0900b4; }
+   20%  { background: hsl(284, 96%, 34%); }
+   40%  { background: #ed0023; }
+   60%  { background: #2c0254; }
+   80%  { background: #07a7d3; }
+   100% { background: #c1009a; }
+ }
+ 
+ body {
+   background: #33CCCC; /* Fallback */
+   animation: color 9s infinite linear;
+   text-align: center;
+   padding: 2em;
+ }
+ h1 {
+   text-align: center;
+   font-family: 'Kavoon', sans-serif;
+   font-size: 2.5em;
+   color: white;
+ }
+ 
+
+   .div-mayor{
+      display: flex;
+      justify-content: space-around;
+      margin: auto;
+      width: 100%;
+      height: 100%;
+     background-color:red;
+     flex-wrap:wrap;
+     text-decoration: none;
+     text-align: center;
+     font-size: 20px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-weight: bold;
+     padding: 10px;
+     border-radius: 1rem;
+  }
+  
+
+.div-body{
+   margin-bottom: 120px;
+}
+
+.card-personal{
+   display: flex;
+   margin: 0 auto;
+   align-items: center;
+   justify-content: space-between;
+   gap: 2rem;
+}
+.card_1{
+   width: 330px;
+   min-height: 400px;
+   background-color: #e7e4e4;
+   margin: 0 auto;
+   margin-top: 70px;
+   border-radius: 10px;
+   box-shadow: 6px 6px 20px rgba(0,0,0,0.24);
+   background-image: linear-gradient(to top,#aa0505 20%, #fbca03 100%);
+   background-size: 100% 150px;
+   background-repeat: no-repeat;
+   text-align: center;
+   padding: .3px;
+}
+.card_person_1{
+   background-image: url(/IMG/ironmann.png);
+   width: 110px;
+   background-size: cover;
+   background-position: center;
+   border: 7px solid #a8170a;
+   height: 110px;
+   margin: 0 auto;
+   margin-top: 105px;
+   border-radius: 50%;
+   
+}
+
+.card_name_1{
+   margin-top: 20px;
+   margin-bottom: 10px;
+   color: rgb(174, 63, 16);
+}
+.card_media_1{
+   margin-top: 40px;
+   width: 100%;
+   height: 90px;
+   border-top: 1px solid #ffb199;
+   display: flex;
+   justify-content: center;
+}
+
+
+// Thor
+
+.card_2{
+   width: 330px;
+   min-height: 400px;
+   background-color: #e7e4e4;
+   margin: 0 auto;
+   margin-top: 70px;
+   border-radius: 10px;
+   box-shadow: 6px 6px 20px rgba(0,0,0,0.24);
+   background-image: linear-gradient(-20deg, #568cefe3 10%, darkblue 80%);
+   background-size: 100% 150px;
+   background-repeat: no-repeat;
+   text-align: center;
+   padding: .3px;
+}
+.card_person_2{
+   background-image: url(/IMG/thor.png);
+   width: 110px;
+   background-size: cover;
+   background-position: center;
+   border: 7px solid #001faad5;
+   height: 110px;
+   margin: 0 auto;
+   margin-top: 105px;
+   border-radius: 50%;
+}
+
+.card_name_2{
+   margin-top: 20px;
+   margin-bottom: 10px;
+   color: rgb(0, 76, 255);
+}
+.card_media_2{
+   margin-top: 40px;
+   width: 100%;
+   height: 90px;
+   border-top: 1px solid #ffb199;
+   display: flex;
+   justify-content: center;
+}
+
+   // Spiderman
+
+.card_3{
+
+   width: 330px;
+   min-height: 400px;
+   background-color: #e7e4e4;
+   margin: 0 auto;
+   margin-top: 70px;
+   border-radius: 10px;
+   box-shadow: 6px 6px 20px rgba(0,0,0,0.24);
+   background-image: linear-gradient(-20deg, rgb(255, 0, 0) 0%, #2b00c6 100%);
+   background-size: 100% 150px;
+   background-repeat: no-repeat;
+   text-align: center;
+   padding: .3px;
+  flex-wrap: wrap;
+  
+  
+}
+
+
+.card_person_3{
+   background-image: url(/IMG/spiderman1.png);
+   width: 110px;
+   background-size: cover;
+   background-position: center;
+   border: 7px solid #070e8b;
+   height: 110px;
+   margin: 0 auto;
+   margin-top: 105px;
+   border-radius: 50%;
+}
+
+.card_name_3{
+   margin-top: 20px;
+   margin-bottom: 10px;
+   color: rgb(255, 0, 0);
+}
+.card_media_3{
+   margin-top: 40px;
+   width: 100%;
+   height: 90px;
+   border-top: 1px solid #ffb199;
+   display: flex;
+   justify-content: center;
+}
+
+//Black Widow
+.card_4{
+
+   width: 330px;
+   min-height: 400px;
+   background-color: #e7e4e4;
+   margin: 0 auto;
+   margin-top: 70px;
+   border-radius: 10px;
+   box-shadow: 6px 6px 20px rgba(0,0,0,0.24);
+   background-image: linear-gradient(-20deg, rgb(20, 2, 2) 0%, #59005f 100%);
+   background-size: 100% 150px;
+   background-repeat: no-repeat;
+   text-align: center;
+   padding: .3px;
+}
+
+
+.card_person_4{
+   background-image: url(/IMG/blackwidow.png);
+   width: 110px;
+   background-size: cover;
+   background-position: center;
+   border: 7px solid #450457;
+   height: 110px;
+   margin: 0 auto;
+   margin-top: 105px;
+   border-radius: 50%;
+}
+
+.card_name_4{
+   margin-top: 20px;
+   margin-bottom: 10px;
+   color: rgb(71, 10, 120);
+}
+.card_media_4{
+   margin-top: 40px;
+   width: 100%;
+   height: 90px;
+   border-top: 1px solid #ffb199;
+   display: flex;
+   justify-content: center;
+}
+
+//Capitan América
+
+.card_5{
+
+   width: 330px;
+   min-height: 400px;
+   background-color: #e7e4e4;
+   margin: 0 auto;
+   margin-top: 70px;
+   border-radius: 10px;
+   box-shadow: 6px 6px 20px rgba(0,0,0,0.24);
+   background-image: linear-gradient(-20deg, rgb(0, 26, 255) 10%, red 100%);
+   background-size: 100% 150px;
+   background-repeat: no-repeat;
+   text-align: center;
+   padding: .3px;
+}
+
+
+.card_person_5{
+   background-image: url(/IMG/cap.png);
+   width: 110px;
+   background-size: cover;
+   background-position: center;
+   border: 7px solid rgb(4, 4, 99);
+   height: 110px;
+   margin: 0 auto;
+   margin-top: 105px;
+   border-radius: 50%;
+}
+
+.card_name_5{
+   margin-top: 20px;
+   margin-bottom: 10px;
+   color: rgb(19, 17, 97);
+}
+.card_media_5{
+   margin-top: 40px;
+   width: 100%;
+   height: 90px;
+   border-top: 1px solid #ffb199;
+   display: flex;
+   justify-content: center;
+}
+
+
+//Hulk
+.card_6{
+
+   width: 330px;
+   min-height: 400px;
+   background-color: #e7e4e4;
+   margin: 0 auto;
+   margin-top: 70px;
+   border-radius: 10px;
+   box-shadow: 6px 6px 20px rgba(0,0,0,0.24);
+   background-image: linear-gradient(-20deg, rgb(54, 211, 22) 2%, #100311 60%);
+   background-size: 100% 150px;
+   background-repeat: no-repeat;
+   text-align: center;
+   padding: .3px;
+}
+
+
+.card_person_6{
+   background-image: url(/IMG/hulk.png);
+   width: 110px;
+   background-size: cover;
+   background-position: center;
+   border: 7px solid #0e4203cb;
+   height: 110px;
+   margin: 0 auto;
+   margin-top: 105px;
+   border-radius: 50%;
+}
+
+.card_name_6{
+   margin-top: 20px;
+   margin-bottom: 10px;
+   color: rgb(11, 145, 25);
+}
+.card_media_6{
+   margin-top: 40px;
+   width: 100%;
+   height: 90px;
+   border-top: 1px solid #ffb199;
+   display: flex;
+   justify-content: center;
+}
