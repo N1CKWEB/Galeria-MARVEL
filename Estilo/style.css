@@ -319,4 +319,46 @@ h1 {
   border-top: 1px solid #ffb199;
   display: flex;
   justify-content: center;
+}
+
+.card_7 {
+  width: 330px;
+  min-height: 400px;
+  background-color: #e7e4e4;
+  margin: 0 auto;
+  margin-top: 70px;
+  border-radius: 10px;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-image: linear-gradient(-20deg, rgb(31, 2, 123) 2%, #260329 60%);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 0.3px;
+}
+
+.card_person_7 {
+  background-image: url(/IMG/halconn.png);
+  width: 110px;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid #2c012f;
+  height: 110px;
+  margin: 0 auto;
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_7 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(47, 4, 82);
+}
+
+.card_media_7 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border-top: 1px solid #ffb199;
+  display: flex;
+  justify-content: center;
 }/*# sourceMappingURL=style.css.map */
