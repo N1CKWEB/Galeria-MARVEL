@@ -27,7 +27,7 @@
   }
 }
 body {
-  background: #33CCCC; /* Fallback */
+  background: #33cccc; /* Fallback */
   animation: color 9s infinite linear;
   text-align: center;
   padding: 2em;
@@ -57,6 +57,10 @@ h1 {
   border-radius: 1rem;
 }
 
+.div-general-active-one {
+  margin-top: 100px;
+}
+
 .div-body {
   margin-bottom: 120px;
 }
@@ -67,6 +71,7 @@ h1 {
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
+  margin-top: 40px;
 }
 
 .card_1 {
@@ -830,4 +835,763 @@ h1 {
   height: 90px;
   border: 1px solid #ffb199;
   justify-content: center;
+}
+
+.card_19 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(11, 220, 11) 0%, gold 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_19 {
+  background-image: url(/IMG/Loki.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid #3a9037;
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_19 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(3, 109, 3);
+}
+
+.card_media_19 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_20 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(gold 0%, rgb(242, 0, 255) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_20 {
+  background-image: url(/IMG/Thanos.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid #d534d0;
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_20 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(195, 0, 238);
+}
+
+.card_media_20 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_21 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(11, 220, 11) 0%, rgb(18, 6, 6) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_21 {
+  background-image: url(/IMG/DoctorDoom.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid #0f400d;
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_21 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(48, 69, 48);
+}
+
+.card_media_21 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_22 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(33, 69, 33) 0%, rgb(11, 10, 10) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_22 {
+  background-image: url(/IMG/greenGoblin.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid #162412;
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_22 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(11, 91, 11);
+}
+
+.card_media_22 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_23 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(52, 2, 2) 0%, rgb(71, 4, 4) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_23 {
+  background-image: url(/IMG/Magneto.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid #470403;
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_23 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(103, 1, 1);
+}
+
+.card_media_23 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_24 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(0, 0, 0) 0%, rgb(99, 2, 2) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_24 {
+  background-image: url(/IMG/RedSkull.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(30, 0, 0, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_24 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(0, 0, 0);
+}
+
+.card_media_24 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_25 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(109, 109, 109) 0%, rgb(75, 75, 75) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_25 {
+  background-image: url(/IMG/Ultron.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(106, 106, 106, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_25 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(124, 124, 124);
+}
+
+.card_media_25 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_26 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(0, 0, 0) 0%, rgb(0, 0, 0) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_26 {
+  background-image: url(/IMG/Venom.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(0, 0, 0, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_26 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(0, 0, 0);
+}
+
+.card_media_26 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_27 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(15, 5, 80) 0%, rgb(35, 35, 35) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_27 {
+  background-image: url(/IMG/Kingpin.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(14, 5, 43, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_27 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(12, 2, 54);
+}
+
+.card_media_27 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_28 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(58, 46, 24) 0%, rgb(86, 22, 22) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_28 {
+  background-image: url(/IMG/DoctorOctupus.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgb(46, 17, 17);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_28 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(78, 28, 28);
+}
+
+.card_media_28 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_29 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(17, 44, 18) 0%, rgb(54, 107, 53) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_29 {
+  background-image: url(/IMG/Abdominación.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(30, 63, 25, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_29 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(16, 57, 10);
+}
+
+.card_media_29 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_30 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(75, 168, 67) 0%, rgb(130, 197, 93) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_30 {
+  background-image: url(/IMG/HarryOsborn.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(3, 45, 18, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_30 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(2, 98, 41);
+}
+
+.card_media_30 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_31 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(10, 124, 0) 20%, rgb(18, 7, 7) 80%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_31 {
+  background-image: url(/IMG/Hela.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(17, 22, 19, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_31 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(30, 34, 32);
+}
+
+.card_media_31 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_32 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(0, 0, 0) 0%, gold 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_32 {
+  background-image: url(/IMG/KillmongerPanther.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(167, 133, 11, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_32 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: gold;
+}
+
+.card_media_32 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_33 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(75, 168, 67) 0%, rgb(130, 197, 93) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_33 {
+  background-image: url(/IMG/Lagarto.webp);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(3, 45, 18, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_33 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(2, 98, 41);
+}
+
+.card_media_33 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_34 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(14, 124, 141) 0%, rgb(22, 153, 197) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_34 {
+  background-image: url(/IMG/Mystique.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(16, 117, 176, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_34 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(13, 94, 130);
+}
+
+.card_media_34 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_35 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(72, 71, 71) 0%, rgb(59, 58, 58) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_35 {
+  background-image: url(/IMG/Rhino.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(52, 54, 53, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_35 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(101, 113, 106);
+}
+
+.card_media_35 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+.card_36 {
+  width: 330px;
+  min-height: 400px;
+  margin-top: 70px;
+  margin: 0 auto;
+  background-color: #e7e4e4;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(164, 186, 1) 0%, rgb(54, 153, 0) 100%);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.24);
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+  padding: 0.3px;
+  text-align: center;
+}
+
+.card_person_36 {
+  background-image: url(/IMG/MisterioAlaOrden.png);
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  border: 7px solid rgba(0, 139, 49, 0.8274509804);
+  margin-top: 105px;
+  border-radius: 50%;
+}
+
+.card_name_36 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: rgb(34, 243, 117);
+}
+
+.card_media_36 {
+  margin-top: 40px;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #ffb199;
+  justify-content: center;
+}
+
+#arrows {
+  width: 140px;
+  height: 200px;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.arrowRight {
+  width: 140px;
+  height: 200px;
+  margin-left: 20px;
+}
+
+.arrowLeft {
+  width: 140px;
+  height: 200px;
+  margin-left: 20px;
 }/*# sourceMappingURL=style.css.map */
